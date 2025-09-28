@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://nimitmehra.github.io/sitemap.xml
+Sitemap: https://nimitmehra.com/sitemap.xml

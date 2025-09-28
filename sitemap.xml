@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://nimitmehra.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://nimitmehra.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://nimitmehra.github.io/</loc>
+<loc>https://nimitmehra.com/</loc>
 </url>
 <url>
-<loc>https://nimitmehra.github.io/blog/everybody-signals/</loc>
+<loc>https://nimitmehra.com/blog/everybody-signals/</loc>
 </url>
 <url>
-<loc>https://nimitmehra.github.io/cv/</loc>
+<loc>https://nimitmehra.com/cv/</loc>
 <lastmod>2025-09-28T12:50:38+05:30</lastmod>
 </url>
 </urlset>
